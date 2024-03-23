@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="please_wait">Please Wait…</string>
+    <string name="image">image</string>
+    <string name="image_content">image_content</string>
+    <string name="miles_per_hour">miles/hour</string>
+    <string name="image_min_max">image min max</string>
+    <string name="image_wind">image_wind</string>
+    <string name="image_location">image_location</string>
+    <string name="image_sunrise">image_sunrise</string>
+    <string name="image_sunset">image_sunset</string>
+    <string name="temperature_format">%1$s°%2$s</string>
+    <string name="refresh">Refresh</string>
+</resources>
